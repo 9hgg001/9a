@@ -1,4 +1,4 @@
-index.html
-package.json
-.cache
-dist
+/index.html
+/package.json
+/.cache
+/dist
